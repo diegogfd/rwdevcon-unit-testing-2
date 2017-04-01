@@ -91,5 +91,6 @@ class ScheduleDataSourceTests: XCTestCase {
     XCTAssertEqual(session2._startTimeStringCount, 0)
     XCTAssertEqual(session2._startDateDayOfWeekCount, 1)
   }
+  
 
 }
